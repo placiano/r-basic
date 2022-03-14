@@ -1,8 +1,9 @@
 ---
 title: "Mi primer Markdown"
-author: "Curso de Álgebra Lineal"
-date: "11/12/2018"
+author: "Curso de R-Studio"
+date: "14/03/2022"
 output:
+  pdf_document: default
   html_document:
     df_print: paged
 ---
